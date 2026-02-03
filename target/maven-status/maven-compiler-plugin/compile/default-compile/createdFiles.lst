@@ -1,0 +1,16 @@
+com\spring\model\Category.class
+com\spring\model\IngredientsItem.class
+com\spring\model\ContactInformation.class
+com\spring\model\IngredientCategory.class
+com\spring\service\CartService.class
+com\spring\model\OrderItem.class
+com\spring\request\AddCartItemRequest.class
+com\spring\model\USER_ROLE.class
+com\spring\model\Address.class
+com\spring\model\Order.class
+com\spring\model\Food.class
+com\spring\model\CartItem.class
+com\spring\model\Cart.class
+com\spring\dto\RestaurantDto.class
+com\spring\model\User.class
+com\spring\model\Restaurant.class
